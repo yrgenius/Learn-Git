@@ -14,4 +14,4 @@
 * some change 6.1 nik2
 * some change 6.2 nik2
 * some change 7.1 nik
-
+* some change 7.2 nik
