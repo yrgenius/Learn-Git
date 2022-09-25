@@ -1,5 +1,7 @@
 # Start lelik branch
+# come change 1 
 
+<<<<<<< HEAD
 * change 1
 * some change 1 
 * some change 2 alex
@@ -20,4 +22,15 @@
 * come change 4 from bolik
 
 * some change 8 from bolik
+=======
+# come change 2
+
+# come change 3
+
+# come change 4
+
+# some change 8
+
+# some change 9
+>>>>>>> bolik
 
